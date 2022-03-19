@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding:  0;
+}
+img{
+display:block;
+margin:auto;
+}
+div{
+  text-align: center;
+}
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9,.item10{
+  color:   #FFFFFF;
+}
+.borde{
+  background-color: #dc3545;
+}
+body{
+  background-image:  url("https://i.ibb.co/fCM1zmJ/maxresdefault.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
